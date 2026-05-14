@@ -1,6 +1,6 @@
-https://chatgpt.com/s/m_6a0650e5a238819189c04acea8e9d045
+
 <p align="center">
-  <img src="./a_wide_cinematic_stylized_digital_illustration.png" width="100%" />
+  <img src="https://chatgpt.com/s/m_6a0650e5a238819189c04acea8e9d045" />
 </p>
 # Hi, I'm Makarena Ampuero
 
