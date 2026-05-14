@@ -1,2 +1,39 @@
-# Data-Analysis-Portfolio-Makarena
-Portfolio of data analysis projects developed during my Data Analytics course. Includes projects using Excel, Python, and data visualization techniques, focused on practical analysis and decision-making.
+# Hi, I'm Makarena Ampuero
+
+Environmental professional transitioning into data, technology, and applied science.
+
+## About me
++1 years of experience in environmental management, regulatory compliance, and sustainability in the energy sector.
+
+💻 Currently building skills in:
+- Python
+- Data Analysis
+- Machine Learning
+- Data Visualization
+- Git & GitHub
+
+Based in :contentReference[oaicite:3]{index=3}, Chile  
+🇨🇱 → 🇬🇧
+
+## Current projects
+- Data analysis projects using Python
+- Interactive dashboards
+- Machine learning exercises
+- Academic and portfolio repositories
+
+## Tech stack
+Python | Pandas | NumPy | Matplotlib | Plotly | Dash | Git
+
+## 2026 Goals
+✔ Complete my data certification  
+✔ Build a strong technical portfolio  
+✔ Merge sustainability + data + science  
+
+
+## 🌍 Connect with me
+LinkedIn: www.linkedin.com/in/makarena-ampuero
+Email: makarena.ampuero@mayor.cl
+
+---
+
+*"Science, sustainability, and technology can solve real-world problems."*
