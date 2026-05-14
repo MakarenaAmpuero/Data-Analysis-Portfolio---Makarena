@@ -12,8 +12,8 @@ Environmental professional transitioning into data, technology, and applied scie
 - Data Visualization
 - Git & GitHub
 
-Based in :contentReference[oaicite:3]{index=3}, Chile  
-🇨🇱 → 🇬🇧
+Based in Chile  
+Preparing for my next professional chapter in the United Kingdom
 
 ## Current projects
 - Data analysis projects using Python
@@ -30,7 +30,7 @@ Python | Pandas | NumPy | Matplotlib | Plotly | Dash | Git
 ✔ Merge sustainability + data + science  
 
 
-## 🌍 Connect with me
+## Connect with me
 LinkedIn: www.linkedin.com/in/makarena-ampuero
 Email: makarena.ampuero@mayor.cl
 
