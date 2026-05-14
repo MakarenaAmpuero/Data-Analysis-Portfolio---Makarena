@@ -1,42 +1,95 @@
+<p align="center">
+  <img src="./banner.png" alt="Banner" width="100%">
+</p>
+
+<h1 align="center">Hi, I'm Makarena Ampuero 👋</h1>
 
 <p align="center">
-  <img src="banner.png" width="1000" />
-</p>
-# Hi, I'm Makarena Ampuero
-
 Environmental professional expanding into data, technology, and applied science.
-## About me
+</p>
+
+---
+
+## 🌱 About me
+
+<table>
+<tr>
+<td width="60%">
+
 Over 1 year of hands-on experience in environmental management, regulatory compliance, and sustainability in the energy sector.
 
-Currently building skills in:
+### Currently building skills in:
 - Python
 - Data Analysis
 - Machine Learning
 - Data Visualization
 - Git & GitHub
 
-Based in Chile  
-Preparing for my next professional chapter in the United Kingdom
+</td>
 
-## Current projects
-- Data analysis projects using Python
-- Interactive dashboards
-- Machine learning exercises
-- Academic and portfolio repositories
+<td width="40%">
 
-## Tech stack
-Python | Pandas | NumPy | Matplotlib | Plotly | Dash | Git
+📍 Santiago, Chile 🇨🇱
 
-## 2026 Goals
+🇬🇧 Preparing for my next professional chapter in the UK
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Current Projects | 🛠 Tech Stack | 🎯 2026 Goals
+
+<table>
+<tr>
+
+<td width="33%">
+
+### Current projects
+- Data analysis projects using Python  
+- Interactive dashboards  
+- Machine learning exercises  
+- Academic portfolio  
+
+</td>
+
+<td width="33%">
+
+### Tech stack
+
+`Python`  
+`Pandas`  
+`NumPy`  
+`Matplotlib`  
+`Plotly`  
+`Dash`  
+`Git`  
+
+</td>
+
+<td width="33%">
+
+### 2026 Goals
+
 ✔ Complete my data certification  
 ✔ Build a strong technical portfolio  
 ✔ Merge sustainability + data + science  
 
+</td>
 
-## Connect with me
-LinkedIn: www.linkedin.com/in/makarena-ampuero
-Email: makarena.ampuero@mayor.cl
+</tr>
+</table>
 
 ---
 
-*"Science, sustainability, and technology can solve real-world problems."*
+## 📫 Connect with me
+
+💼 LinkedIn: linkedin.com/in/makarena-ampuero  
+📧 Email: makarena.ampuero@mayor.cl  
+
+---
+
+<p align="center">
+<i>"Using science, sustainability, and technology to create real-world impact."</i>
+</p>
