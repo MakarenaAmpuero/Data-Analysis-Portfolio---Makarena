@@ -1,11 +1,15 @@
+https://chatgpt.com/s/m_6a0650e5a238819189c04acea8e9d045
+<p align="center">
+  <img src="./a_wide_cinematic_stylized_digital_illustration.png" width="100%" />
+</p>
 # Hi, I'm Makarena Ampuero
 
-Environmental professional transitioning into data, technology, and applied science.
+Environmental professional expanding into data, technology, and applied science.
 
 ## About me
-+1 years of experience in environmental management, regulatory compliance, and sustainability in the energy sector.
+Over 1 year of hands-on experience in environmental management, regulatory compliance, and sustainability in the energy sector.
 
-💻 Currently building skills in:
+Currently building skills in:
 - Python
 - Data Analysis
 - Machine Learning
