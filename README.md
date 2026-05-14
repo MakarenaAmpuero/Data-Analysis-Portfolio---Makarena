@@ -1,11 +1,10 @@
 
 <p align="center">
-  <img src="Banner.png" width="500" />
+  <img src="Banner.png" width="420" />
 </p>
 # Hi, I'm Makarena Ampuero
 
 Environmental professional expanding into data, technology, and applied science.
-
 ## About me
 Over 1 year of hands-on experience in environmental management, regulatory compliance, and sustainability in the energy sector.
 
