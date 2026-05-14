@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Banner.png" width="70%" />
+  <img src="banner.png" width="70%" />
 </p>
 # Hi, I'm Makarena Ampuero
 
