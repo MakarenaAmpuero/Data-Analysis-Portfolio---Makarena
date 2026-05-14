@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[https://chatgpt.com/s/m_6a0650e5a238819189c04acea8e9d045](https://chatgpt.com/s/m_6a0650e5a238819189c04acea8e9d045)" />
+  <img src=",,,," />
 </p>
 # Hi, I'm Makarena Ampuero
 
