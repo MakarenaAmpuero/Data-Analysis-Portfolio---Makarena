@@ -29,9 +29,9 @@ Over 1 year of hands-on experience in environmental management, regulatory compl
 
 <td width="40%">
 
-📍 Santiago, Chile 🇨🇱
+📍 Santiago, Chile 
 
-🇬🇧 Preparing for my next professional chapter in the UK
+Preparing for my next professional chapter in the UK
 
 </td>
 </tr>
