@@ -59,12 +59,8 @@ Preparing for my next professional chapter in the UK
 ### Tech stack
 
 `Python`  
-`Pandas`  
-`NumPy`  
-`Matplotlib`  
 `Plotly`  
-`Dash`  
-`Git`  
+`Dash`    
 
 </td>
 
